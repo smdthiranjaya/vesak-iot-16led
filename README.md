@@ -1,5 +1,7 @@
 # Firebase Pattern Control System
 
+## (16 LED pins with 15 patterns)
+
 ## Overview
 
 This repository contains the ESP8266 and Arduino Uno codes for fetching real-time pattern values from Firebase and controlling LEDs based on the received patterns.
